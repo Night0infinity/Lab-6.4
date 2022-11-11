@@ -1,0 +1,14 @@
+﻿  UnitTest6.4.cpp
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4\Lab 6.4\Source.cpp(21,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4\Lab 6.4\Source.cpp(24,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4\Lab 6.4\Source.cpp(32,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4\Lab 6.4\Source.cpp(35,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4\Lab 6.4\Source.cpp(56,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4\Lab 6.4\Source.cpp(68,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4\Lab 6.4\Source.cpp(131,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4\Lab 6.4\Source.cpp(132,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4\Lab 6.4\Source.cpp(155,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4\Lab 6.4\Source.cpp(157,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4\UnitTest6.4\UnitTest6.4.cpp(18,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4\x64\Debug\UnitTest6.4.lib and object C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4\x64\Debug\UnitTest6.4.exp
+  UnitTest6.4.vcxproj -> C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4\x64\Debug\UnitTest6.4.dll
